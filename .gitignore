@@ -1,0 +1,19 @@
+# Visual Studio bestanden
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.bak
+*.swp
+Thumbs.db
+
+# Debug output
+Debug/
+Release/
+
+# User specifieke instellingen
+*.userosscache
+*.sln.docstates

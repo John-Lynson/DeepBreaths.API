@@ -1,0 +1,6 @@
+@DeepBreaths.API_HostAddress = http://localhost:5041
+
+GET {{DeepBreaths.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
